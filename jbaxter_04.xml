@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <!--Ballad of Booker T.," by Langston Hughes, June 1, 1941 
+Education and Outreach Division 
+Hollow Hills Farm, 
+Monterey, California, 
+June 1, 1941. 
+Transcript -->
+    <title>BALLAD OF BOOKER T.</title>
+    <author>by Langston Hughes </author>
+    <stan key="1">
+        <slt total="13">
+            <line id="lnum" key="1">Booker T. </line>
+            <line key="2">Was a practical man. </line>
+            <line key="3">And learn from the land. </line>
+            <line key="4">Let down your bucket </line>
+            <line key="5">Where you are. </line>
+            <line key="6">Your fate is here </line>
+            <line key="7">And not afar. </line>
+            <line key="8">To help yourself </line>
+            <line key="9">And your fellow man, </line>
+            <line key="10">Train your head, </line>
+            <line key="11">Your heart, and</line>
+            <line key="12">your</line>
+            <line key="13">hand</line>
+        </slt>
+    </stan>
+    <stan key="2">
+        <stl key="34">
+            <line key="14">For smartness alone's </line>
+            <line key="15">Surely not meet— </line>
+            <line key="16">If you haven't at the same time </line>
+            <line key="17">Got something to eat. </line>
+            <line key="18">Thus at Tuskegee </line>
+            <line key="19">He built a school </line>
+            <line key="20">With book-learning there </line>
+            <line key="21">And the workman's tool. </line>
+            <line key="22">He started out </line>
+            <line key="23">In a simple way— </line>
+            <line key="24">For yesterday </line>
+            <line key="25">Was not</line>
+            <line key="26">today. </line>
+            <line key="27">Sometimes he had </line>
+            <line key="28">Compromise in his talk— </line>
+            <line key="29">For a man must crawl </line>
+            <line key="30">Before he can walk— </line>
+            <line key="31">And in Alabama in '85 </line>
+            <line key="32">A joker was lucky </line>
+            <line key="33">To be alive. </line>
+            <line key="34">But Booker T. </line>
+            <line key="35">Was nobody's fool: </line>
+            <line key="36">You may carve a dream </line>
+            <line key="37">With an humble tool. </line>
+            <line key="38">The tallest tower </line>
+            <line key="39">Can tumble down </line>
+            <line key="40">If it be not rooted </line>
+            <line key="41">In solid ground. </line>
+            <line key="42">So, being a far-seeing </line>
+            <line key="43">Practical man, </line>
+            <line key="44">He said, Train your head, </line>
+            <line key="45">Your heart, and</line>
+            <line key="46">your</line>
+            <line key="47">hand</line>
+        </stl>
+    </stan>
+    <stan key="3">. <slt key="3"><line>Your fate is here </line>
+            <line key="47">And not afar, </line>
+            <line key="48"> So let down your bucket </line>
+            <line key="49"> Where you are.</line></slt>
+    </stan>
+    <source>Citation: Drafts of Langston Hughes's poem "Ballad of Booker T.," 30 May–1 June 1941.
+        (Langston Hughes Collection) Manuscript Division, Library of Congress, Washington, D.C.
+    </source>
+</root>
