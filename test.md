@@ -1,6 +1,0 @@
-# test
-
-* apple 
-* bannana 
-* pear 
-
