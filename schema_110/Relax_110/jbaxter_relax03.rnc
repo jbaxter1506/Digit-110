@@ -1,0 +1,19 @@
+start = root 
+root = element root {title, author, stan+, source}
+
+title = element title {text}
+author = element author {text}
+
+stan = element stan {key, slt+}
+key = attribute key {xsd:integer}
+slt = element slt {(total | line | rhy)+}
+line = element line {id?, key+, rhy+}
+id = attribute id {"lnum"}
+rhy = element rhy {sch, text}
+sch = attribute sch {text}
+total = attribute total {xsd:integer}
+source = element source {text}
+
+
+
+

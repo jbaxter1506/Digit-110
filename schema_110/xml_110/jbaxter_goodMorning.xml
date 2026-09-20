@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-
 <?xml-model href="../Relax_110/goodmorningSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <source>

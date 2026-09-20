@@ -8,11 +8,21 @@ level = attribute level {text}
 when = attribute when {xsd:integer}
 
 poem = element poem { (ln | place| lg |placeName | motif | title)+}
-ln = element ln {n, text* ,(placeName| place)* , motif?, text* }
+# ebb: Be careful of this! You're permitting all of these element as "children" of the element poem, 
+# but would you really want the ln elements, or the motif, place, or placeName elements there? 
+
+# ln = element ln {n, text* ,(placeName| place)* , motif?, text* }
+ln = element ln {n, mixed { (placeName| place | motif)*  }}
+# ebb: Here is where you'd want mixed content to allow text to flow anywhere around these elements!
+# How to write it (it should not include attributes):
+# ln = element ln {n, mixed { (placeName| place | motif)*  }}
+
 n = attribute n {xsd:integer }
 place = element place {ref, text}
 ref = attribute ref {text}
 lg = element lg {ln+ | place+ | placeName+ | motif+}
+# ebb: Again, here: are you being too permissive of what you're allowing to be the child of <lg>? 
+
 placeName = element placeName {ref, text}
 motif = element motif {text}
 

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Relax_110/jbaxter_relax03.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+    <!--Ballad of Booker T.," by Langston Hughes, June 1, 1941 
+Education and Outreach Division 
+Hollow Hills Farm, 
+Monterey, California, 
+June 1, 1941. 
+Transcript -->
+    <title>BALLAD OF BOOKER T.</title>
+    <author>by Langston Hughes </author>
+    <stan key="1">
+        <slt total="13">
+            <line id="lnum" key="1"><rhy sch = "A">Booker T.</rhy> </line>
+            <line key="2"><rhy sch = "B">Was a practical man</rhy></line>
+            <line key="3"><rhy sch = "B" >And learn from the land</rhy> </line>
+            <line key="4"><rhy sch = "C">Let down your bucket</rhy> </line>
+            <line key="5"><rhy sch = "D">Where you are</rhy></line>
+            <line key="6"><rhy sch = "E">Your fate is here </rhy></line>
+            <line key="7"><rhy sch = "D">And not afar.</rhy> </line>
+            <line key="8"><rhy sch = "F">To help yourself </rhy></line>
+            <line key="9"><rhy sch = "B">And your fellow man</rhy></line>
+            <line key="10"><rhy sch = "G">Train your head</rhy></line>
+            <line key="11"><rhy sch = "B">Your heart, and</rhy></line>
+            <line key="12"><rhy sch = "H">your</rhy></line>
+            <line key="13"><rhy sch = "I">hand</rhy></line>
+        </slt>
+    </stan>
+    <stan key="2">
+        <slt total ="34">
+            <line key="14"><rhy sch = "A">For smartness alone's</rhy> </line>
+            <line key="15"><rhy sch = "B">Surely not meet— </rhy> </line>
+            <line key="16"><rhy sch = "C">If you haven't at the same time</rhy> </line>
+            <line key="17"><rhy sch = "B">Got something to eat.</rhy> </line>
+            <line key="18"><rhy sch = "D">Thus at Tuskegee</rhy> </line>
+            <line key="19"><rhy sch = "E">He built a school</rhy> </line>
+            <line key="20"><rhy sch = "F">With book-learning there</rhy> </line>
+            <line key="21"><rhy sch = "E">And the workman's tool.</rhy> </line>
+            <line key="22"><rhy sch = "G">He started out</rhy></line>
+            <line key="23"><rhy sch = "H">In a simple way— </rhy></line>
+            <line key="24"><rhy sch = "H">For yesterday </rhy></line>
+            <line key="25"><rhy sch = "I">Was not</rhy></line>
+            <line key="26"><rhy sch = "J">today.</rhy> </line>
+            <line key="27"><rhy sch = "K">Sometimes he had </rhy></line>
+            <line key="28"><rhy sch = "L">Compromise in his talk— </rhy></line>
+            <line key="29"><rhy sch = "M">For a man must crawl </rhy></line>
+            <line key="30"><rhy sch = "L">Before he can walk— </rhy></line>
+            <line key="31"><rhy sch = "M">And in Alabama in '85 </rhy></line>
+            <line key="32"><rhy sch = "O">A joker was lucky</rhy> </line>
+            <line key="33"><rhy sch = "P">To be alive.</rhy> </line>
+            <line key="34"><rhy sch = "Q">But Booker T. </rhy></line>
+            <line key="35"><rhy sch = "E">Was nobody's fool:</rhy> </line>
+            <line key="36"><rhy sch = "R">You may carve a dream </rhy></line>
+            <line key="37"><rhy sch = "E">With an humble tool.</rhy> </line>
+            <line key="38"><rhy sch = "S">The tallest tower</rhy> </line>
+            <line key="39"><rhy sch = "T">Can tumble down </rhy></line>
+            <line key="40"><rhy sch = "U">If it be not rooted</rhy> </line>
+            <line key="41"><rhy sch = "V">In solid ground.</rhy> </line>
+            <line key="42"><rhy sch = "W">So, being a far-seeing</rhy> </line>
+            <line key="43"><rhy sch = "B">Practical man,</rhy> </line>
+            <line key="44"><rhy sch = "K">He said, Train your head,</rhy> </line>
+            <line key="45"><rhy sch = "K">Your heart, and</rhy></line>
+            <line key="46"><rhy sch = "X">your</rhy></line>
+            <line key="47"><rhy sch = "Y">hand</rhy></line>
+        </slt>
+    </stan>
+    <stan key="3"> <slt total ="3"><line key = "48"><rhy sch = "A">Your fate is here</rhy> </line>
+            <line key="49"><rhy sch = "B">And not afar,</rhy> </line>
+            <line key="50"> <rhy sch = "C">So let down your bucket</rhy> </line>
+            <line key="51"> <rhy sch = "D">Where you are</rhy></line></slt>
+    </stan>
+    <source>Citation: Drafts of Langston Hughes's poem "Ballad of Booker T.," 30 May–1 June 1941.
+        (Langston Hughes Collection) Manuscript Division, Library of Congress, Washington, D.C.
+    </source>
+</root>
