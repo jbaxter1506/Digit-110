@@ -10,10 +10,11 @@ slt = element slt {(total | line | rhy)+}
 line = element line {id?, key+, rhy+}
 id = attribute id {"lnum"}
 rhy = element rhy {sch, text}
-sch = attribute sch {text}
+sch = attribute sch {capitalString}
 total = attribute total {xsd:integer}
 source = element source {text}
 
-
+capitalString = xsd:string {pattern = "[A-Z]"}
+# a range for only capital letters. regualar expressions help to constraign the text
 
 
