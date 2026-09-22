@@ -1,0 +1,20 @@
+start = poem 
+poem = element poem {title, stan+,(author, people)?}
+
+author = element author {"John Greenleaf Whittier"}
+# constricting the author so it can not be changed 
+stan = element stan {n, rhySc,author?,ln+}
+n = attribute n {xsd:integer}
+rhySc = attribute rhySc {scheme}
+scheme = xsd:string {pattern = "[A-Z]"}
+# constricting the rhyme scheme to only hold capital letters
+title = element title {"Barbara Frietchie"}
+# constricting title so it can not be changed 
+people = element people  {text}
+ln = element ln {lNum,text+,people?,text}
+# is there a way to make it so i dont have to put text twice?
+lNum = attribute lNum {xsd:integer}
+
+
+
+

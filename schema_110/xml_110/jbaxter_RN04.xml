@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Relax_110/jbaxter_RN04schema.rnc" type="application/relax-ng-compact-syntax"?>
+<poem>
+    <title>Barbara Frietchie</title>
+    <stan n="1" rhySc="A">
+        <author>John Greenleaf Whittier</author>
+        <ln lNum="1">Up from the meadows rich with corn,</ln>
+        <ln lNum="2">Clear in the cool September morn,</ln>
+    </stan>
+    <stan n="2" rhySc="B">
+        <ln lNum="3">The clustered spires of Frederick stand</ln>
+        <ln lNum="4">Green-walled by the hills of Maryland.</ln>
+    </stan>
+    <stan n="3" rhySc="C">
+        <ln lNum="5">Round about them orchards sweep,</ln>
+        <ln lNum="6">Apple- and peach-tree fruited deep,</ln>
+    </stan>
+    <stan n="4" rhySc="D">
+        <ln lNum="7">Fair as a garden of the Lord</ln>
+        <ln lNum="8">To the eyes of the famished rebel horde,</ln>
+    </stan>
+    <stan n="5" rhySc="E">
+        <ln lNum="9">On that pleasant morn of the early fall</ln>
+        <ln lNum="10">When Lee marched over the mountain wall,—</ln>
+    </stan>
+    <stan n="6" rhySc="F">
+        <ln lNum="11">Over the mountains winding down,</ln>
+        <ln lNum="12">Horse and foot, into Frederick town.</ln>
+    </stan>
+    <stan n="7" rhySc="G">
+        <ln lNum="13">Forty flags with their silver stars,</ln>
+        <ln lNum="14">Forty flags with their crimson bars,</ln>
+    </stan>
+    <stan n="8" rhySc="H">
+        <ln lNum="15">Flapped in the morning wind: the sun</ln>
+        <ln lNum="16">Of noon looked down, and saw not one</ln>
+    </stan>
+    <stan n="9" rhySc="I">
+        <ln lNum="17">Up rose old <people>Barbara Frietchie</people> then,</ln>
+        <ln lNum="18">Bowed with her fourscore years and ten;</ln>
+    </stan>
+    <stan n="10" rhySc="F">
+        <ln lNum="19">Bravest of all in Frederick town,</ln>
+        <ln lNum="20">She took up the flag the men hauled down;</ln>
+    </stan>
+    <stan n="11" rhySc="J">
+        <ln lNum="21">In her attic window the staff she set,</ln>
+        <ln lNum="22">To show that one heart was loyal yet.</ln>
+    </stan>
+    <stan n="12" rhySc="K">
+        <ln lNum="23">Up the street came the rebel tread,</ln>
+        <ln lNum="24">Stonewall Jackson riding ahead</ln>
+    </stan>
+    <stan n="13" rhySc="L">
+        <ln lNum="25">Under his slouched hat left and right</ln>
+        <ln lNum="26">He glanced: the old flag met his sight.</ln>
+    </stan>
+    <stan n="14" rhySc="L">
+        <ln lNum="27">“Halt!”— the dust-brown ranks stood fast.</ln>
+        <ln lNum="28">“Fire!”— out blazed the rifle-blast.</ln>
+    </stan>
+    <stan n="15" rhySc="M">
+        <ln lNum="29">It shivered the window, pane and sash;</ln>
+        <ln lNum="30">It rent the banner with seam and gash</ln>
+    </stan>
+    <stan n="16" rhySc="N">
+        <ln lNum="31">Quick, as it fell, from the broken staff</ln>
+        <ln lNum="32">Dame Barbara snatched the silken scarf;</ln>
+    </stan>
+    <stan n="17" rhySc="O">
+        <ln lNum="33">She leaned far out on the window-sill,</ln>
+        <ln lNum="34">And shook it forth with a royal will.</ln>
+    </stan>
+    <stan n="18" rhySc="P">
+        <ln lNum="35">“Shoot, if you must, this old gray head,</ln>
+        <ln lNum="36">But spare your country’s flag,” she said.</ln>
+    </stan>
+    <stan n="19" rhySc="Q">
+        <ln lNum="37">A shade of sadness, a blush of shame,</ln>
+        <ln lNum="38">Over the face of the leader came;</ln>
+    </stan>
+    <stan n="20" rhySc="R">
+        <ln lNum="39">The nobler nature within him stirred</ln>
+        <ln lNum="40">To life at that woman’s deed and word:</ln>
+    </stan>
+    <stan n="21" rhySc="P">
+        <ln lNum="41">“Who touches a hair of yon gray head</ln>
+        <ln lNum="42">Dies like a dog! March on!” he said.</ln>
+    </stan>
+    <stan n="22" rhySc="S">
+        <ln lNum="43">All day long through Frederick street</ln>
+        <ln lNum="44">Sounded the tread of marching feet:</ln>
+    </stan>
+    <stan n="23" rhySc="T">
+        <ln lNum="45">All day long that free flag tost</ln>
+        <ln lNum="46">Over the heads of the rebel host.</ln>
+    </stan>
+    <stan n="24" rhySc="U">
+        <ln lNum="47">Ever its torn folds rose and fell</ln>
+        <ln lNum="48">On the loyal winds that loved it well;</ln>
+    </stan>
+    <stan n="25" rhySc="V">
+        <ln lNum="49">And through the hill-gaps sunset light</ln>
+        <ln lNum="50">Shone over it with a warm good-night.</ln>
+    </stan>
+    <stan n="26" rhySc="W">
+        <ln lNum="51">Barbara Frietchie’s work is o’er,</ln>
+        <ln lNum="52">And the Rebel rides on his raids no more</ln>
+    </stan>
+    <stan n="27" rhySc="X">
+        <ln lNum="53">Honor to her! and let a tear</ln>
+        <ln lNum="54">Fall, for her sake, on Stonewall’s bier</ln>
+    </stan>
+    <stan n="28" rhySc="Y">
+        <ln lNum="55">Over Barbara Frietchie’s grave</ln>
+        <ln lNum="56">Flag of Freedom and Union, wave!</ln>
+    </stan>
+    <stan n="29" rhySc="E">
+        <ln lNum="57">Peace and order and beauty draw</ln>
+        <ln lNum="58">Round thy symbol of light and law;</ln>
+    </stan>
+    <stan n="30" rhySc="F">
+        <ln lNum="59">And ever the stars above look down</ln>
+        <ln lNum="60">On thy stars below in Frederick town!</ln>
+    </stan>
+</poem>
