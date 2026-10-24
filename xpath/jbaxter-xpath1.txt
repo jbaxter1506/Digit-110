@@ -1,0 +1,31 @@
+Question 1:  
+EXPRESSION: //div[@type= "panelGrp"]
+
+Question 2: 
+EXPRESSION:  //div[@type="panelGrp"]//cbml:panel
+
+Question 3:  
+EXPRESSION:(//div[@type="panelGrp"])[2]
+EXPRESSION 2: (//div[@type="panelGrp"])[2]//cbml:panel 
+RESULTS: 2
+
+Question 4: 
+ EXPRESSION: //@characters
+RESULTS: 53 items       
+
+Question 5:
+EXPRESSION:  //cbml:panel [@characters = "#narrator"]
+
+Question 6:
+EXPRESSION: //floatingText
+RESULTS: 41 items
+CONTENT: I think that they are meant to be headers
+EXPRESSION 2: //div[@type= "panelGrp"]//floatingText
+RESULTS: 41 items
+EXPRESSION COUNT: count(//cbml:panel[//floatingText])
+RESULT: 58
+
+
+
+
+//div[@type= "panelGrp"][descendent::floatingText
